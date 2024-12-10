@@ -1,5 +1,5 @@
 print("A")
-print("Conflict1")
+print("NoConflict")
 print("C")
 print("D")
 print("E")
