@@ -1,5 +1,5 @@
 print("A")
-print("B")
+print("Coflict2")
 print("C")
 print("D")
 print("E")
